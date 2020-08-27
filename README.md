@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=dandumitriu33&show_icons=true&theme=blue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandumitriu33&layout=compact&theme=blue" alt="languages" height="165"></p>
 
 <!--
 **dandumitriu33/dandumitriu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
